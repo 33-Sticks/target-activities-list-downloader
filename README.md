@@ -33,6 +33,8 @@ This will watch the source directory and re-build on change.
 
 ## Licenses
 
-This script includes code adapted from the following [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) sources:
-* [Kamil Kiełczewski, Stack Overflow](https://stackoverflow.com/a/55784435)
-* [Christian Landgren, Stack Overflow](https://stackoverflow.com/a/31536517)
+This project is licensed under GLPv3. See [LICENSE](./LICENSE) or <https://www.gnu.org/licenses/gpl-3.0.en.html> for full terms.
+
+It adapts the following code from Stack Overflow, originally licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/):
+* [Kamil Kiełczewski](https://stackoverflow.com/a/55784435)
+* [Christian Landgren](https://stackoverflow.com/a/31536517)
