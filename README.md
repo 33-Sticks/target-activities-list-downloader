@@ -37,4 +37,4 @@ This project is licensed under GLPv3. See [LICENSE](./LICENSE) or <https://www.g
 
 It adapts the following code from Stack Overflow, originally licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/):
 * [Kamil Kiełczewski](https://stackoverflow.com/a/55784435)
-* [Christian Landgren](https://stackoverflow.com/a/31536517)
+* [Christian Landgren](https://stackoverflow.com/a/31536517)   
